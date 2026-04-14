@@ -63,7 +63,6 @@
       <p class="senses"><strong>Senses:</strong> Visual, Tactile</p>
       <p class="social"><strong>Social:</strong> Inclusive for people of all abilities.</p>
     </div>
-
     <!-- Culture -->
     <div class="section">
       <h2>Culture</h2>
@@ -72,8 +71,7 @@
       <p class="senses"><strong>Senses:</strong> Visual, Auditory (music events)</p>
       <p class="social"><strong>Social:</strong> Engages locals and visitors.</p>
     </div>
-
-    <!-- Identity -->
+ <!-- Identity -->
     <div class="section">
       <h2>Identity</h2>
       <img src="ENG class.jpeg" alt="Identity Image">
@@ -81,8 +79,7 @@
       <p class="senses"><strong>Senses:</strong> Visual, Tactile</p>
       <p class="social"><strong>Social:</strong> Landmark that fosters pride in the community.</p>
     </div>
-
-    <!-- Diversity -->
+  <!-- Diversity -->
     <div class="section">
       <h2>Diversity</h2>
       <img src="Inside Larry.jpeg" alt="Diversity Image">
@@ -90,8 +87,7 @@
       <p class="senses"><strong>Senses:</strong> Visual, Kinesthetic, Vestibular</p>
       <p class="social"><strong>Social:</strong> Attracts different age groups and cultures.</p>
     </div>
-
-    <!-- Inclusion -->
+ <!-- Inclusion -->
     <div class="section">
       <h2>Inclusion</h2>
       <img src="Mclean sofa.jpeg" alt="Inclusion Image">
@@ -99,8 +95,7 @@
       <p class="senses"><strong>Senses:</strong> Visual, Tactile, Auditory</p>
       <p class="social"><strong>Social:</strong> Supports everyone regardless of ability or background.</p>
     </div>
-
-    <!-- Community -->
+ <!-- Community -->
     <div class="section">
       <h2>Community</h2>
       <img src="Community Larry.jpeg" alt="Community Image">
